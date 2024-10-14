@@ -1,0 +1,17 @@
+*de completat
+
+ce sunt pointerii?
+- niste variabile in care putem retine adrese
+
+ce sunt adresele?
+- se stocheaza in memorie
+
+2 zone de memorie in care se poate salva o var?
+ram
+stack si heap
+stack - mai rapid
+
+cand o functie si este declarata, alocare statica, se salveaza in stack
+alocare dinamica (operatorul new), se salveaza in heap:
+-malloc in c pur
+-calloc
