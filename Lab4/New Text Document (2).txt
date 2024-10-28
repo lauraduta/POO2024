@@ -1,0 +1,10 @@
+structures
+diff between structures and class - privacy => classes are private, structures are public
+Student:
+- name = char size-1 (ex: ionut => i) => char* (pointer)
+- id = int
+- address = char*
+- email = char*(dynamic)/char[](static) 
+- phone = char[] (here we use static bc we know the length for phone no)
+--------------------------
+ 
